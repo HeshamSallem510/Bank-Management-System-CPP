@@ -116,6 +116,7 @@ git clone https://github.com/HeshamSallem510/Bank-Management-System-CPP.git
 2. Open the solution in Visual Studio.
 3. Build the solution.
 4. Run the application.
+5. Use "Hesham" as the username to log in, 1234 for the password.
 
 > The current implementation uses Windows-specific console commands, including `system("cls")` and `system("pause>0")`, so it is intended for Windows.
 

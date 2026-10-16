@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simple-Bank-App-CPP.vcxproj" Id="61fb1d91-d759-4127-a0dc-4dee67715588" />
+</Solution>
